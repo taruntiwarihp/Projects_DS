@@ -1,0 +1,26 @@
+Important Libraries which used in project 
+1. Pandas
+2. Numpy
+3. Seaborn
+4. Matplotlib
+5. Plotly
+6. Time
+7. LogisticRegression
+8. MultinomialNB
+9. train_test_split
+10. classification_report
+11. confusion_matrix
+12. RegexpTokenizer
+13. SnowballStemmer
+14. CountVectorizer
+15. make_pipeline
+16. Image
+17. Word cloud
+18. Beautiful Soup
+19. selenium
+20. NetworkX
+21. Warnings
+// for deployement
+22. uvicorn
+23. fastapi 
+24. joblib
