@@ -10,8 +10,6 @@ The loss value of **1.5987** has been achieved which gives good results. You can
 
 Everything is implemented in the Jupyter notebook which will hopefully make it easier to understand the code.
 
-I have also written a blog post describing my experience while implementing this project. You can find it <a href="https://yashk2810.github.io/Image-Captioning-using-InceptionV3-and-Beam-Search/">here</a>.
-
 
 # Examples
 
