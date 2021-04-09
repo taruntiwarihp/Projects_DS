@@ -1,0 +1,130 @@
+{
+        "intents": [
+        {
+                "tag": "greeting",
+                "patterns": [
+                        "Hi",
+                        "How are you",
+                        "Is anyone there?", 
+                        "Hello", 
+                        "Good day", 
+                        "Whats up"
+                ],
+                "responses": [
+                        "Hello!", 
+                        "Hey :-)",
+                        "Hi there, what can I do for you?", 
+                        "Hi there, how can I help?"
+                ]
+        },
+        {
+                "tag": "goodbye",
+                "patterns": [
+                        "cya", 
+                        "See you later", 
+                        "Goodbye"
+                ],
+                "responses": [
+                        "See you later, thanks for visiting",
+                        "Sad to see you go :(",
+                        "Have a good day",
+                        "Goodbye!",
+                        "Bye! Come back again soon."
+                ]
+        },
+        {
+                "tag":"thanks",
+                "patterns":[
+                        "Thanks",
+                        "Thank you",
+                        "Thats helpful",
+                        "Thank's a lot!"
+                ],
+                "responses":[
+                        "Happy to help!",
+                        "Any time1",
+                        "My Pleasure"
+                ]
+        },
+        {       "tag": "name",
+                "patterns": [
+                        "what is your name", 
+                        "what should I call you", 
+                        "whats your name?"],
+                "responses": [
+                        "You can call me Taru.", 
+                        "I'm Taru!", 
+                        "I'm Tarun aka Tarun Data Scientist."]
+        },
+        {
+                "tag":"payements",
+                "patterns":[
+                        "Do you take credit cards",
+                        "Do you accept Mastercards?",
+                        "Can I Pay with Paypal?",
+                        "Are you cash only?",
+                        "COD",
+                        "Payement mode"
+                ],
+                "responses":["We accept VISA, Mastercard and Paypal",
+                "We accept most major Credit cards, Master Card, Paypal, American Express and Discover."]
+        },
+        {
+                "tag": "shop",
+                "patterns": [
+                        "What items do you have?",
+                        "Id like to buy something", 
+                        "whats on the menu", 
+                        "what do you reccommend?", 
+                        "what do you sell?"],
+                "responses": ["We sell Cake, Flowers, Gifts and delivery across 2500+ cities in India!", 
+                        "We have Cakes, Flowers and Gifts are on the menu!"]
+        },
+        {       "tag": "hours",
+                "patterns": ["when are you guys open", 
+                        "what are your hours", 
+                        "hours of operation"],
+                "responses": ["We are open 24/7!"]
+        },
+        {
+                "tag":"delivery",
+                "patterns":["How long does delivery take?",
+                "How long does shiping take?",
+                "When do I get my delivery"
+                ],
+                "responses":["We have the largest Same day delivery Network In India, Which cover 10,000+ Cities, towns and villages of the India"]
+        },
+        {
+                "tag":"funny",
+                "patterns":["Tell me a joke!",
+                        "Tell me something funny1",
+                        "Do you know a joke?"],
+                "responses":["I ate a clock yesterday, it was very time-consuming.",
+                "I can’t believe I got fired from the calendar factory. All I did was take a day off!",
+                "I went to see the doctor about my short-term memory problems — the first thing he did was make me pay in advance",
+                "You have two parts of the brain, “left” and “right”. On the left side, there’s nothing right and on the right side, there’s nothing left."]
+        },
+        {
+                "tag":"summary",
+                "patterns":["What is my status of order no",
+                        "I want to know about my order status",
+                        "Can you track my order",
+                        "Order"],
+                "responses":["To check the delivery status-related query please send a Whatsapp message at 9829006028, Our team reply there and resolved your concern only on the WhatsApp. Thanks"]
+        },
+        {
+                "tag":"reject",
+                "patterns":["I want to cancel my order",
+                        "Can you cancel my order",
+                        "Order cancel"],
+                "responses":["For cancel your sent mail on order@cakegift.in"]
+        },
+        {
+                "tag":"notwant",
+                "patterns":["I want my money refund ",
+                        "can you return my money",
+                        "Refund or return"],
+                "responses":["For refund, sent mail on support@cakegift.in"]
+        }
+   ]
+}
