@@ -10,10 +10,7 @@
 
 
 
-<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/Accuracy.png'>
-<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/f1_score.png'>
-<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/precision.png'>
-<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/recall.png'>
-<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/train_loss.png'>
-<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/val_loss.png'>
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/Accuracy.png'> <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/f1_score.png'>
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/precision.png'> <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/recall.png'>
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/train_loss.png'> <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/val_loss.png'>
 
