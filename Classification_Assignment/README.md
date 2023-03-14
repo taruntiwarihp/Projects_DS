@@ -8,3 +8,12 @@
 | AttentionEfficientNet | 0.7329545454545454 | 0.7092061499486313 | 0.6934227800778768 | 0.6838596462150024 | 11404500           |
 | EfficientNetV2S       | 0.0 | 0.0 | 0.0 | 0.0 | 20213356
 
+
+
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/Accuracy.png'>
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/f1_score.png'>
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/precision.png'>
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/recall.png'>
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/train_loss.png'>
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/val_loss.png'>
+
