@@ -11,7 +11,7 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 
 # checkpoints link
 # https://drive.google.com/drive/folders/1y9EPmDUeXOYRmYSSYEd5Vo0XarIkEBsM?usp=sharing
-onnx_model_path = "weights/swin/best_model.onnx"
+onnx_model_path = "checkpoints/swin/best_model.onnx"
 
 CLASSES = ['Audi.common', 'BMW.common', 'Chevrolet.common', 'Datsun.common', 'Fiat.common',
          'Ford.common', 'Honda.common', 'Hyundai.common', 'ISUZU.common', 'Jaguar.frontal', 
@@ -23,7 +23,7 @@ CLASSES = ['Audi.common', 'BMW.common', 'Chevrolet.common', 'Datsun.common', 'Fi
 
 # dummy_input = torch.randn(1, 3, 224, 224)
 # model = BaseFeatureExtractor('swin', n_class=28)
-# model_path = 'weights/swin/best_model.pt'
+# model_path = 'checkpoints/swin/best_model.pt'
 # ckpt = torch.load(model_path)
 # model.load_state_dict(ckpt['model_dict'])
 # torch.onnx.export(model, dummy_input, onnx_model_path, verbose=True)
@@ -39,36 +39,4 @@ biggest_pred_index = np.array(preds)[0].argmax()
 print ("Predicted class:", CLASSES[biggest_pred_index])
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# from models import BaseFeatureExtractor
-# import torch
-# from PIL import Image
-
-# model = BaseFeatureExtractor('resnet', n_class=28)
-# model_path = 'weights_temp/efficientnet_v2_s/best_model.pt'
-
-# ckpt = torch.load(model_path, map_location='cpu')
-# pytorch_total_params = sum(p.numel() for p in model.parameters())
-# print(pytorch_total_params)
-
-# print(ckpt.keys())
-# print(ckpt['accuracy'])
-# print(ckpt['precision'])
-# print(ckpt['recall'])
-# print(ckpt['f1_score'])
 
