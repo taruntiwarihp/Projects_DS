@@ -7,7 +7,7 @@
 | SWIN                  | 0.8861111111111111 | 0.8214367944147357 | 0.8432166660370441 | 0.822309550392583  | 27540886           | 0.43773937225341797|
 | AttentionEfficientNet | 0.7329545454545454 | 0.7092061499486313 | 0.6934227800778768 | 0.6838596462150024 | 11404500           | 0.32543545525345435|
 | EfficientNetV2S       | 0.9277777777777778 | 0.8897694604157452 | 0.8874862444977991 | 0.8843419289090997 | 20213356           | 0.2312171459197998 |
-|-----------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+
 
 <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/Accuracy.png'> <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/f1_score.png'>
 <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/precision.png'> <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/recall.png'>
