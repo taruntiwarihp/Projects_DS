@@ -1,3 +1,6 @@
+## Problem Statement.
+  * Vehicle Logos Image Classification with imbalance dataset. 
+
 ### Overall
 
 | Model Type            | Accuracy           | Precision          | Recall             | F1 Score           | Params             | Latency            |    
