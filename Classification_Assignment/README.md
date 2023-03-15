@@ -14,3 +14,7 @@
 <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/precision.png'> <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/recall.png'>
 <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/train_loss.png'> <img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/val_loss.png'>
 
+
+* Confusion Matrix
+<img src = 'https://github.com/taruntiwarihp/Projects_DS/blob/master/Classification_Assignment/plots/confusion_matrix.png'>
+
