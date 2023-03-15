@@ -1,5 +1,7 @@
 ## Problem Statement.
-  * Vehicle Logos Image Classification with imbalance dataset. 
+  * Vehicle Logos (Image Classification) with an imbalanced dataset and wrong annotations.
+  
+* We solved the imbalance problem using assigning class weights and wrong annotations using added attention layer as a penalty added to the loss function.
 
 ### Overall
 
